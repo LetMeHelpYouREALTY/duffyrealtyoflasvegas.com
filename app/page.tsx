@@ -3,14 +3,33 @@
 import { Button } from '@/components/ui/button'
 import { Phone, Mail, Calendar, Award, Home, Users, MapPin } from 'lucide-react'
 import Image from 'next/image'
-import { generateOrganizationSchema, generatePersonSchema, generateRealEstateAgentSchema, generateLocalBusinessSchema } from '@/lib/schema/structured-data'
+import { generateOrganizationSchema, generatePersonSchema, generateRealEstateAgentSchema, generateLocalBusinessSchema, generateFAQPageSchema } from '@/lib/schema/structured-data'
 import { StructuredData } from '@/components/StructuredData'
+
+const HOME_FAQS = [
+  {
+    question: "Do I need a buyer's agent to buy a Beazer home?",
+    answer:
+      "While not required, working with a buyer's agent like Dr. Jan Duffy provides significant benefits at no additional cost to you. You get professional representation, contract review, negotiation, and expert guidance throughout your home buying journey.",
+  },
+  {
+    question: 'How long does it take to build a new Beazer home?',
+    answer:
+      'Construction timelines typically range from 4-8 months, depending on whether the home is already under construction or a standard new build. Quick move-in homes can close in 30-90 days, while standard builds take 4-6 months from contract to closing.',
+  },
+  {
+    question: 'What areas does Dr. Jan Duffy serve?',
+    answer:
+      'Dr. Jan Duffy serves all Beazer Homes communities throughout the greater Las Vegas area, including Henderson, Las Vegas, Boulder City, and Mesquite. Her office is located at 4670 S Fort Apache Rd, Las Vegas, NV 89147.',
+  },
+]
 
 export default function HomePage() {
   const organizationSchema = generateOrganizationSchema()
   const personSchema = generatePersonSchema()
   const realEstateAgentSchema = generateRealEstateAgentSchema()
   const localBusinessSchema = generateLocalBusinessSchema()
+  const faqSchema = generateFAQPageSchema(HOME_FAQS)
 
   return (
     <>
@@ -18,6 +37,7 @@ export default function HomePage() {
       <StructuredData data={personSchema} />
       <StructuredData data={realEstateAgentSchema} />
       <StructuredData data={localBusinessSchema} />
+      <StructuredData data={faqSchema} />
     <div className="min-h-screen bg-background">
       {/* Hero Section */}
       <section className="relative bg-gradient-to-b from-primary/10 via-background to-background py-20 md:py-32">
