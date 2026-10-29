@@ -263,9 +263,9 @@ export default function HowIHelpPage() {
                 </a>
               </Button>
               <Button size="lg" variant="outline" asChild>
-                <a href="tel:7022221964">
+                <a href="tel:7025001955">
                   <Phone className="w-5 h-5" />
-                  Text (702) 222-1964
+                  Text (702) 500-1955
                 </a>
               </Button>
               <Button size="lg" variant="outline" asChild>
@@ -402,8 +402,8 @@ export default function HowIHelpPage() {
                 </a>
               </p>
               <p>
-                <a href="tel:7022221964" className="underline hover:no-underline">
-                  (702) 222-1964 (Marketing/Urgent)
+                <a href="tel:7025001955" className="underline hover:no-underline">
+                  (702) 500-1955 (Marketing/Urgent)
                 </a>
               </p>
               <p className="mt-4">
