@@ -71,7 +71,7 @@ export const metadata: Metadata = {
 // - worksFor: full BHHS Nevada Properties entity name
 
 const SITE_URL = 'https://www.duffyrealtyoflasvegas.com'
-const SCHEMA_PHONE = '(702) 500-1942' // Site-specific CallAction — NEVER replace with 702-500-1955
+const SCHEMA_PHONE = '(702) 500-1942' // Site-specific CallAction — NEVER replace with 702-222-1964
 const SITE_AGENT_ID = `${SITE_URL}#agent`
 const SITE_BUSINESS_ID = `${SITE_URL}#business`
 const SITE_PERSON_ID = `${SITE_URL}#person`
