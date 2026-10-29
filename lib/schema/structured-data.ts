@@ -13,7 +13,7 @@ export function generateOrganizationSchema() {
     logo: 'https://www.duffyrealtyoflasvegas.com/logo.png',
     contactPoint: {
       '@type': 'ContactPoint',
-      telephone: '+1-702-500-1942',
+      telephone: '+1-702-500-1955',
       contactType: 'Real Estate Agent',
       email: 'DrDuffySells@DuffyRealtyOfLasVegas.com',
       areaServed: ['Las Vegas', 'Henderson', 'Boulder City', 'Mesquite'],
@@ -62,7 +62,7 @@ export function generatePersonSchema() {
       addressCountry: 'US',
     },
     email: 'DrDuffySells@DuffyRealtyOfLasVegas.com',
-    telephone: '+1-702-500-1942',
+    telephone: '+1-702-500-1955',
     url: 'https://www.duffyrealtyoflasvegas.com',
     knowsAbout: [
       'Real Estate',
@@ -128,7 +128,7 @@ export function generateRealEstateAgentSchema() {
       postalCode: '89147',
       addressCountry: 'US',
     },
-    telephone: '+1-702-500-1942',
+    telephone: '+1-702-500-1955',
     email: 'DrDuffySells@DuffyRealtyOfLasVegas.com',
     url: 'https://www.duffyrealtyoflasvegas.com',
     areaServed: [
@@ -174,7 +174,7 @@ export function generateLocalBusinessSchema() {
     description: 'Award Winning Buyer Agent for Beazer Homes in Las Vegas',
     image: 'https://www.duffyrealtyoflasvegas.com/logo.png',
     url: 'https://www.duffyrealtyoflasvegas.com',
-    telephone: '+1-702-500-1942',
+    telephone: '+1-702-500-1955',
     email: 'DrDuffySells@DuffyRealtyOfLasVegas.com',
     address: {
       '@type': 'PostalAddress',

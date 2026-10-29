@@ -108,8 +108,8 @@ export default function PrivacyPage() {
                 </p>
                 <p className="text-muted-foreground mb-2">
                   <strong className="text-foreground">Phone:</strong>{' '}
-                  <a href="tel:7025001942" className="text-primary hover:underline">
-                    (702) 500-1942
+                  <a href="tel:7025001955" className="text-primary hover:underline">
+                    (702) 500-1955
                   </a>
                 </p>
                 <p className="text-muted-foreground">

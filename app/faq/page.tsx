@@ -196,7 +196,7 @@ export default function FAQPage() {
         },
         {
           q: 'How do I get started with Dr. Jan Duffy?',
-          a: 'Simply contact Dr. Jan Duffy by phone at (702) 500-1942 or email at DrDuffySells@DuffyRealtyOfLasVegas.com to schedule a consultation. She\'ll discuss your home buying goals, budget, timeline, and preferences. Then she\'ll help you explore available Beazer Homes communities that match your criteria. There\'s no obligation, and the consultation is free.',
+          a: 'Simply contact Dr. Jan Duffy by phone at (702) 500-1955 or email at DrDuffySells@DuffyRealtyOfLasVegas.com to schedule a consultation. She\'ll discuss your home buying goals, budget, timeline, and preferences. Then she\'ll help you explore available Beazer Homes communities that match your criteria. There\'s no obligation, and the consultation is free.',
         },
         {
           q: 'Does Dr. Jan Duffy work with all Beazer communities?',
@@ -217,7 +217,7 @@ export default function FAQPage() {
         },
         {
           q: 'How can I read reviews of Beazer Homes communities?',
-          a: 'You can find reviews on various platforms, but the best way to learn about Beazer Homes communities is to speak directly with Dr. Jan Duffy, who has extensive experience helping clients purchase Beazer homes in Las Vegas. She can provide honest, first-hand insights about each community, floor plans, the buying process, builder responsiveness, and overall experience. Contact her at (702) 500-1942 for personalized guidance.',
+          a: 'You can find reviews on various platforms, but the best way to learn about Beazer Homes communities is to speak directly with Dr. Jan Duffy, who has extensive experience helping clients purchase Beazer homes in Las Vegas. She can provide honest, first-hand insights about each community, floor plans, the buying process, builder responsiveness, and overall experience. Contact her at (702) 500-1955 for personalized guidance.',
         },
         {
           q: 'Can I talk to past clients of Dr. Jan Duffy?',
@@ -305,9 +305,9 @@ export default function FAQPage() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
               <Button size="lg" asChild>
-                <a href="tel:7025001942">
+                <a href="tel:7025001955">
                   <Phone className="w-5 h-5" />
-                  Call (702) 500-1942
+                  Call (702) 500-1955
                 </a>
               </Button>
               <Button size="lg" variant="outline" asChild>
