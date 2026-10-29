@@ -167,7 +167,7 @@ export default function FAQPage() {
       questions: [
         {
           q: 'What Beazer Homes communities are in Henderson?',
-          a: 'Beazer Homes has several communities in Henderson, including Jasper Point, Juniper Trails, Cantata Point, Aria Crossing, and Westview Estates. Henderson is Nevada\'s second-largest city, known for excellent schools, master-planned communities, and family-friendly amenities. Dr. Jan Duffy represents buyers in all Henderson communities and can help you find the right one for your needs.',
+          a: 'Beazer Homes has several communities in Henderson, including Jasper Point, Juniper Trails, Cantata Point, Aria Crossing, and Westview Estates. Henderson is Nevada\'s second-largest city, known for nearby schools, master-planned communities, and community amenities. Dr. Jan Duffy represents buyers in all Henderson communities and can help you find the right one for your needs.',
         },
         {
           q: 'What Beazer Homes communities are in Las Vegas?',
@@ -178,8 +178,8 @@ export default function FAQPage() {
           a: 'The best community depends on your budget, desired location, preferred floor plans, lifestyle needs, and priorities (schools, amenities, commute, etc.). Dr. Jan Duffy will ask about your preferences and help you compare communities based on your specific criteria. She can schedule tours and help you evaluate each community\'s pros and cons.',
         },
         {
-          q: 'Are there Beazer Homes communities near good schools?',
-          a: 'Yes, many Beazer Homes communities are located in areas with highly rated schools. Henderson communities, in particular, are known for excellent school districts. Dr. Jan Duffy can provide information about school districts, ratings, and proximity to schools for each community. She understands how important schools are to families and can help you find communities that meet your educational needs.',
+          q: 'Are there Beazer Homes communities near nearby public schools?',
+          a: 'Beazer Homes communities are served by Clark County School District campuses. Dr. Jan Duffy can provide information about school districts, ratings, and proximity to schools for each community. She can help you find communities in the attendance zones you want. Check current CCSD and Nevada state data for school ratings.',
         },
       ],
     },

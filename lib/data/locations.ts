@@ -29,7 +29,7 @@ export const locations: Location[] = [
       'Excellent public services and infrastructure',
     ],
     demographics: 'Over 330,000 residents',
-    schools: 'Highly rated school districts including Clark County School District and private school options',
+    schools: 'Clark County School District campuses and private school options',
     amenities: 'Golf courses, parks, recreation centers, shopping centers, and dining',
     keywords: ['Henderson NV', 'Henderson Nevada', 'Beazer Homes Henderson', 'new homes Henderson', 'Henderson real estate'],
   },
