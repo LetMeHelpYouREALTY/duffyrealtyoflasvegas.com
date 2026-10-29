@@ -3,6 +3,7 @@
 import { Button } from '@/components/ui/button'
 import { Phone, Mail, Calendar, Award, Home, Users, MapPin } from 'lucide-react'
 import Image from 'next/image'
+import FeaturedListing from '@/components/sections/FeaturedListing'
 import { generateOrganizationSchema, generatePersonSchema, generateRealEstateAgentSchema, generateLocalBusinessSchema, generateFAQPageSchema } from '@/lib/schema/structured-data'
 import { StructuredData } from '@/components/StructuredData'
 
@@ -95,6 +96,12 @@ export default function HomePage() {
           </div>
         </div>
       </section>
+
+      <FeaturedListing
+        phone={"(702) 500-1955"}
+        phoneHref={"tel:+17025001955"}
+        siteHost="duffyrealtyoflasvegas.com"
+      />
 
       {/* Reasons Section */}
       <section className="py-20 bg-muted/30">
