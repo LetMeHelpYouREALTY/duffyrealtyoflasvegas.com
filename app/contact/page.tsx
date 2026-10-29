@@ -76,9 +76,9 @@ export default function ContactPage() {
                   </Button>
                   <p className="text-sm text-muted-foreground">Professional Line</p>
                   <Button size="lg" variant="outline" asChild className="w-full">
-                    <a href="tel:7022221964">
+                    <a href="tel:7025001955">
                       <Phone className="w-5 h-5" />
-                      (702) 222-1964
+                      (702) 500-1955
                     </a>
                   </Button>
                   <p className="text-sm text-muted-foreground">Marketing/Urgent</p>
@@ -207,7 +207,7 @@ export default function ContactPage() {
               <div className="bg-card p-6 rounded-lg border border-border">
                 <h3 className="text-xl font-semibold mb-3">What's the best way to contact Dr. Jan Duffy?</h3>
                 <p className="text-muted-foreground">
-                  You can reach Dr. Jan Duffy by phone at (702) 500-1942, email at DrDuffySells@DuffyRealtyOfLasVegas.com, or visit her office at 4670 S Fort Apache Rd, Las Vegas, NV 89147. For urgent matters, you can also call (702) 222-1964.
+                  You can reach Dr. Jan Duffy by phone at (702) 500-1942, email at DrDuffySells@DuffyRealtyOfLasVegas.com, or visit her office at 4670 S Fort Apache Rd, Las Vegas, NV 89147. For urgent matters, you can also call (702) 500-1955.
                 </p>
               </div>
               <div className="bg-card p-6 rounded-lg border border-border">
