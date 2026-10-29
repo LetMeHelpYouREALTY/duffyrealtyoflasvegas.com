@@ -78,9 +78,9 @@ export default async function LocationPage({ params }: Props) {
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <Button size="lg" asChild>
-                <a href="tel:7025001942">
+                <a href="tel:7025001955">
                   <Phone className="w-5 h-5" />
-                  Call (702) 500-1942
+                  Call (702) 500-1955
                 </a>
               </Button>
               <Button size="lg" variant="outline" asChild>
@@ -258,7 +258,7 @@ export default async function LocationPage({ params }: Props) {
               <div className="bg-card p-6 rounded-lg border border-border">
                 <h3 className="text-xl font-semibold mb-3">How do I get started looking for a home in {locationData.name}?</h3>
                 <p className="text-muted-foreground">
-                  Contact Dr. Jan Duffy at (702) 500-1942 or email DrDuffySells@DuffyRealtyOfLasVegas.com to schedule a consultation. She'll help you explore Beazer Homes communities in {locationData.name} and guide you through the entire home buying process.
+                  Contact Dr. Jan Duffy at (702) 500-1955 or email DrDuffySells@DuffyRealtyOfLasVegas.com to schedule a consultation. She'll help you explore Beazer Homes communities in {locationData.name} and guide you through the entire home buying process.
                 </p>
               </div>
             </div>
@@ -284,9 +284,9 @@ export default async function LocationPage({ params }: Props) {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
               <Button size="lg" variant="secondary" asChild>
-                <a href="tel:7025001942">
+                <a href="tel:7025001955">
                   <Phone className="w-5 h-5" />
-                  Call (702) 500-1942
+                  Call (702) 500-1955
                 </a>
               </Button>
               <Button size="lg" variant="secondary" asChild>

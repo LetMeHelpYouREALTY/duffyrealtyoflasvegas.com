@@ -65,13 +65,13 @@ export const metadata: Metadata = {
 }
 
 // SEO/AEO/GEO 3-Surface Schema Strategy (per CLAUDE.md v3.1.6, May 2026)
-// - Phone number in schema = site-specific CallAction (702-500-1942) — matches GBP NAP
+// - Phone number in schema = site-specific CallAction (702-500-1955) — matches GBP NAP
 // - sameAs uses env-var slots for verifiable web-wide entity footprint (GEO trust signal)
 // - hasCredential is an array: NV license + PhD (March 2026 author-expertise signal)
 // - worksFor: full BHHS Nevada Properties entity name
 
 const SITE_URL = 'https://www.duffyrealtyoflasvegas.com'
-const SCHEMA_PHONE = '(702) 500-1942' // Site-specific CallAction — NEVER replace with 702-222-1964
+const SCHEMA_PHONE = '(702) 500-1955' // Non-GBP site: main line. 702-222-1964 is client email/text only
 const SITE_AGENT_ID = `${SITE_URL}#agent`
 const SITE_BUSINESS_ID = `${SITE_URL}#business`
 const SITE_PERSON_ID = `${SITE_URL}#person`

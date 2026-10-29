@@ -46,9 +46,9 @@ export default function HowIHelpPage() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <Button size="lg" asChild>
-                <a href="tel:7025001942">
+                <a href="tel:7025001955">
                   <Phone className="w-5 h-5" />
-                  Call (702) 500-1942
+                  Call (702) 500-1955
                 </a>
               </Button>
               <Button size="lg" variant="outline" asChild>
@@ -257,9 +257,9 @@ export default function HowIHelpPage() {
             <p className="text-lg font-semibold mb-8">Let's talk about your Beazer home goals.</p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
               <Button size="lg" asChild>
-                <a href="tel:7025001942">
+                <a href="tel:7025001955">
                   <Phone className="w-5 h-5" />
-                  Call (702) 500-1942
+                  Call (702) 500-1955
                 </a>
               </Button>
               <Button size="lg" variant="outline" asChild>
@@ -397,8 +397,8 @@ export default function HowIHelpPage() {
             <p className="mb-6 opacity-90">Real Estate License # S.0197614.LLC</p>
             <div className="space-y-2 text-sm opacity-80 mb-8">
               <p>
-                <a href="tel:7025001942" className="underline hover:no-underline">
-                  (702) 500-1942 (Professional)
+                <a href="tel:7025001955" className="underline hover:no-underline">
+                  (702) 500-1955 (Professional)
                 </a>
               </p>
               <p>

@@ -60,9 +60,9 @@ export default function HomePage() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button size="lg" asChild>
-                <a href="tel:7025001942">
+                <a href="tel:7025001955">
                   <Phone className="w-5 h-5" />
-                  Call (702) 500-1942
+                  Call (702) 500-1955
                 </a>
               </Button>
               <Button size="lg" variant="outline" asChild>
@@ -417,9 +417,9 @@ export default function HomePage() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
               <Button size="lg" variant="secondary" asChild>
-                <a href="tel:7025001942">
+                <a href="tel:7025001955">
                   <Phone className="w-5 h-5" />
-                  Call (702) 500-1942
+                  Call (702) 500-1955
                 </a>
               </Button>
               <Button size="lg" variant="secondary" asChild>
@@ -460,10 +460,10 @@ export default function HomePage() {
               </p>
               <p>
                 <a 
-                  href="tel:7025001942" 
+                  href="tel:7025001955" 
                   className="underline hover:no-underline"
                 >
-                  Direct: (702) 500-1942
+                  Direct: (702) 500-1955
                 </a>
               </p>
             </div>

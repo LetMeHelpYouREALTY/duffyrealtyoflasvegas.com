@@ -69,9 +69,9 @@ export default function ContactPage() {
                 </p>
                 <div className="space-y-3">
                   <Button size="lg" asChild className="w-full">
-                    <a href="tel:7025001942">
+                    <a href="tel:7025001955">
                       <Phone className="w-5 h-5" />
-                      (702) 500-1942
+                      (702) 500-1955
                     </a>
                   </Button>
                   <p className="text-sm text-muted-foreground">Professional Line</p>
@@ -171,7 +171,7 @@ export default function ContactPage() {
                 </Button>
               </form>
               <p className="text-sm text-muted-foreground mt-4">
-                Or call directly: <a href="tel:7025001942" className="text-primary hover:underline">(702) 500-1942</a>
+                Or call directly: <a href="tel:7025001955" className="text-primary hover:underline">(702) 500-1955</a>
               </p>
             </div>
           </div>
@@ -207,7 +207,7 @@ export default function ContactPage() {
               <div className="bg-card p-6 rounded-lg border border-border">
                 <h3 className="text-xl font-semibold mb-3">What's the best way to contact Dr. Jan Duffy?</h3>
                 <p className="text-muted-foreground">
-                  You can reach Dr. Jan Duffy by phone at (702) 500-1942, email at DrDuffySells@DuffyRealtyOfLasVegas.com, or visit her office at 4670 S Fort Apache Rd, Las Vegas, NV 89147. For urgent matters, you can also call (702) 500-1955.
+                  You can reach Dr. Jan Duffy by phone at (702) 500-1955, email at DrDuffySells@DuffyRealtyOfLasVegas.com, or visit her office at 4670 S Fort Apache Rd, Las Vegas, NV 89147. For urgent matters, you can also call (702) 500-1955.
                 </p>
               </div>
               <div className="bg-card p-6 rounded-lg border border-border">
@@ -219,7 +219,7 @@ export default function ContactPage() {
               <div className="bg-card p-6 rounded-lg border border-border">
                 <h3 className="text-xl font-semibold mb-3">Can I schedule a consultation?</h3>
                 <p className="text-muted-foreground">
-                  Yes! You can schedule a consultation by emailing DrDuffySells@DuffyRealtyOfLasVegas.com with "Schedule Consultation" in the subject line, or by calling (702) 500-1942. Consultations can be done in person, over the phone, or via video call.
+                  Yes! You can schedule a consultation by emailing DrDuffySells@DuffyRealtyOfLasVegas.com with "Schedule Consultation" in the subject line, or by calling (702) 500-1955. Consultations can be done in person, over the phone, or via video call.
                 </p>
               </div>
             </div>
