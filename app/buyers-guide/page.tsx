@@ -412,7 +412,6 @@ export default function BuyersGuidePage() {
             </div>
             <div className="text-sm opacity-80">
               <p>Dr. Jan Duffy | Buyers Agent Beazer Homes</p>
-              <p>LIC# S.0197614.LLC</p>
             </div>
           </div>
         </div>

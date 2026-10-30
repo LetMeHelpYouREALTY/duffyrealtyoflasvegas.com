@@ -138,9 +138,6 @@ export default function AboutPage() {
               <h2 className="text-2xl md:text-3xl font-bold mb-6 mt-12">Credentials & License</h2>
               <div className="bg-card p-6 rounded-lg border border-border mb-8">
                 <p className="text-muted-foreground mb-4">
-                  <strong className="text-foreground">Real Estate License:</strong> S.0197614.LLC
-                </p>
-                <p className="text-muted-foreground mb-4">
                   <strong className="text-foreground">Company:</strong> Dr Duffy Beazer Homes Group
                 </p>
                 <p className="text-muted-foreground">
@@ -238,7 +235,6 @@ export default function AboutPage() {
             <div className="text-sm opacity-80">
               <p>Dr. Jan Duffy | Buyers Agent Beazer Homes</p>
               <p>Dr Duffy Beazer Homes Group</p>
-              <p>LIC# S.0197614.LLC</p>
               <p className="mt-4">
                 <a
                   href="https://maps.google.com/?q=4670+S+Fort+Apache+Rd,+Las+Vegas,+NV+89147"

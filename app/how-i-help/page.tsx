@@ -394,7 +394,6 @@ export default function HowIHelpPage() {
               Dr. Jan Duffy | Las Vegas Real Estate Expert
             </h2>
             <p className="text-lg mb-2 opacity-90">Beazer Homes Buyer's Agent</p>
-            <p className="mb-6 opacity-90">Real Estate License # S.0197614.LLC</p>
             <div className="space-y-2 text-sm opacity-80 mb-8">
               <p>
                 <a href="tel:7025001955" className="underline hover:no-underline">

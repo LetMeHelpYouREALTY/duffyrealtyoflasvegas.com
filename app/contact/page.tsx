@@ -240,7 +240,6 @@ export default function ContactPage() {
               <p className="font-semibold text-lg">Dr. Jan Duffy</p>
               <p>Buyers Agent Beazer Homes</p>
               <p>Dr Duffy Beazer Homes Group</p>
-              <p>LIC# S.0197614.LLC</p>
             </div>
           </div>
         </div>

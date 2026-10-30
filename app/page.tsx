@@ -79,7 +79,6 @@ export default function HomePage() {
               </Button>
             </div>
             <div className="mt-8 text-sm text-muted-foreground">
-              <p>LIC# S.0197614.LLC</p>
               <p>Dr Duffy Beazer Homes Group</p>
               <p className="mt-2">
                 <a
@@ -438,7 +437,6 @@ export default function HomePage() {
             <div className="text-sm opacity-80">
               <p>Dr. Jan Duffy | Buyers Agent Beazer Homes</p>
               <p>Dr Duffy Beazer Homes Group</p>
-              <p>LIC# S.0197614.LLC</p>
               <p className="mt-4">
                 <a 
                   href="https://maps.google.com/?q=4670+S+Fort+Apache+Rd,+Las+Vegas,+NV+89147"
