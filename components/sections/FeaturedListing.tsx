@@ -101,7 +101,7 @@ export const FEATURED_LISTING_FAQS = [
   },
   {
     q: 'How do I schedule a showing?',
-    a: 'Call Dr. Jan Duffy, the listing agent with BHHS Nevada Properties, at the number on this page.',
+    a: 'Call Dr. Jan Duffy, the listing agent, at the number on this page.',
   },
 ]
 

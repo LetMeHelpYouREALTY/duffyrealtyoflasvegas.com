@@ -297,6 +297,10 @@ export default function RootLayout({
           storageKey="theme"
         >
           {children}
+          <footer className="border-t border-border py-6 px-4 text-center text-sm text-muted-foreground">
+            <p>&copy; {new Date().getFullYear()} Dr. Jan Duffy</p>
+            <p>Berkshire Hathaway HomeServices Nevada Properties since September 2008 · License S.0197614.LLC</p>
+          </footer>
         </ThemeProvider>
         {/* Widget Tracker */}
         <Script id="widget-tracker" strategy="afterInteractive">{`

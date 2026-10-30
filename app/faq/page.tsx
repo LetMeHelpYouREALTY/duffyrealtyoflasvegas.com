@@ -325,7 +325,6 @@ export default function FAQPage() {
             </div>
             <div className="text-sm text-muted-foreground">
               <p>Dr. Jan Duffy | Buyers Agent Beazer Homes</p>
-              <p>LIC# S.0197614.LLC</p>
             </div>
           </div>
         </div>

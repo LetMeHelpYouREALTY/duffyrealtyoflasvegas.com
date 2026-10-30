@@ -305,7 +305,6 @@ export default async function LocationPage({ params }: Props) {
             <div className="text-sm opacity-80">
               <p>Dr. Jan Duffy | Buyers Agent Beazer Homes</p>
               <p>Dr Duffy Beazer Homes Group</p>
-              <p>LIC# S.0197614.LLC</p>
             </div>
           </div>
         </div>
