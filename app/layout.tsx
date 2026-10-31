@@ -3,6 +3,8 @@ import { Geist, Geist_Mono } from 'next/font/google'
 import { ThemeProvider } from 'next-themes'
 import Script from 'next/script'
 import './globals.css'
+import { Analytics as VercelAnalytics } from "@vercel/analytics/next";
+import { SpeedInsights as VercelSpeedInsights } from "@vercel/speed-insights/next";
 
 const geistSans = Geist({
   variable: '--font-geist-sans',
@@ -308,6 +310,8 @@ export default function RootLayout({
           window.widgetTracker("create", "WT-XQHVYQWW");
           window.widgetTracker("send", "pageview");
         `}</Script>
+        <VercelAnalytics />
+        <VercelSpeedInsights />
       </body>
     </html>
   )
